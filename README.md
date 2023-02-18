@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, My name is Yevhen Babenko</h1>
+<br/>
 <h3 align="center">As a junior developer, I am excited to take on the challenges and opportunities that come with being a part of a dynamic and innovative web development environment</h3>
+<br/>
 
 - 📫 How to reach me **eug.babenko@gmail.com**
 
 - ⚡I'm open to collaborating **on interesting projects as a developer**
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yevhen-babenko-8501b023b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yevhen-babenko-8501b023b/" height="30" width="40" /></a>
