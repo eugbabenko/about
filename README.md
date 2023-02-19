@@ -3,8 +3,6 @@
 <h3 align="center">As a junior developer, I am excited to take on the challenges and opportunities that come with being a part of a dynamic and innovative web development environment</h3>
 <br/>
 
-- 📫 How to reach me **eug.babenko@gmail.com**
-
 - ⚡I'm open to collaborating **on interesting projects as a developer**
 
 <br/>
